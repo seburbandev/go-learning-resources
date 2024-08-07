@@ -18,7 +18,7 @@ Welcome to a curated collection of excellent resources that have significantly a
 ## Free eBooks
 - [Little Book of Go](https://www.openmymind.net/assets/go/go.pdf) by Carl Seguin
 ## Paid eBooks
-- [Let's Go](Let's Go by Alex Edwards [Website](https://lets-go.alexedwards.net)) by Alex Edwards
+- [Let's Go](https://lets-go.alexedwards.net) by Alex Edwards
 ## Courses
 - [Take Your First Steps with Go (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/go-first-steps/?source=learn)
 ## Videos
