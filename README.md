@@ -6,8 +6,8 @@ Welcome to a curated collection of excellent resources that have significantly a
 
 1. [Websites](#websites)
 2. [Tutorials](#tutorials)
-3. [Free eBooks](#free ebooks)
-4. [Paid eBooks](#paidebooks)
+3. [Free eBooks](#free-ebooks)
+4. [Paid eBooks](#paid-ebooks)
 5. [Courses](#courses)
 6. [Videos](#videos)
 7. [Communities](#communities)
